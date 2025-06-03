@@ -1,0 +1,68 @@
+{
+    "common": {
+        "today": "오늘",
+        "yesterday": "어제",
+        "tomorrow": "내일"
+    },
+    "tabs": {
+        "myRoutines": "나의 루틴",
+        "achievements": "달성 현황",
+        "newRoutine": "새 루틴 만들기"
+    },
+    "routines": {
+        "empty": {
+            "title": "아직 등록된 루틴이 없습니다.",
+            "subtitle": "새로운 루틴을 만들어보세요!"
+        },
+        "stats": {
+            "checked": "오늘 체크",
+            "unchecked": "오늘 미체크",
+            "count": "{{count}}개"
+        },
+        "progress": {
+            "achieved": "{{count}}일 달성",
+            "notStarted": "시작하지 않음",
+            "completed": "완료",
+            "lastCheck": "마지막 체크: {{date}}"
+        },
+        "menu": {
+            "edit": "수정",
+            "delete": "삭제",
+            "cancel": "취소"
+        },
+        "new": {
+            "title": "새로운 루틴 제목",
+            "editTitle": "루틴 제목 수정",
+            "placeholder": "예: 매일 30분 운동하기",
+            "description": "66일 동안 매일 체크하면 루틴이 완성됩니다.",
+            "addButton": "루틴 추가하기",
+            "editButton": "루틴 수정하기",
+            "alert": {
+                "title": "알림",
+                "message": "루틴 제목을 입력해주세요."
+            }
+        }
+    },
+    "achievements": {
+        "title": "달성 현황",
+        "search": {
+            "placeholder": "루틴 검색...",
+            "noResults": "검색 결과가 없습니다."
+        },
+        "stats": {
+            "total": "전체",
+            "completed": "완료",
+            "inProgress": "진행중",
+            "notStarted": "미시작",
+            "count": "{{count}}개"
+        },
+        "progress": {
+            "title": "활성 루틴 달성률",
+            "achieved": "{{percent}}% 달성"
+        },
+        "routine": {
+            "startDate": "시작일: {{date}}",
+            "expectedEndDate": "예상 완료일: {{date}}"
+        }
+    }
+}

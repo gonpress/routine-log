@@ -1,0 +1,68 @@
+{
+    "common": {
+        "today": "Today",
+        "yesterday": "Yesterday",
+        "tomorrow": "Tomorrow"
+    },
+    "tabs": {
+        "myRoutines": "My Routines",
+        "achievements": "Achievements",
+        "newRoutine": "New Routine"
+    },
+    "routines": {
+        "empty": {
+            "title": "No routines yet",
+            "subtitle": "Create your first routine!"
+        },
+        "stats": {
+            "checked": "Checked Today",
+            "unchecked": "Unchecked Today",
+            "count": "{{count}}"
+        },
+        "progress": {
+            "achieved": "{{count}} days achieved",
+            "notStarted": "Not started",
+            "completed": "Completed",
+            "lastCheck": "Last check: {{date}}"
+        },
+        "menu": {
+            "edit": "Edit",
+            "delete": "Delete",
+            "cancel": "Cancel"
+        },
+        "new": {
+            "title": "New Routine Title",
+            "editTitle": "Edit Routine Title",
+            "placeholder": "e.g., Exercise 30 minutes daily",
+            "description": "Complete your routine by checking it every day for 66 days.",
+            "addButton": "Add Routine",
+            "editButton": "Update Routine",
+            "alert": {
+                "title": "Notice",
+                "message": "Please enter a routine title."
+            }
+        }
+    },
+    "achievements": {
+        "title": "Achievements",
+        "search": {
+            "placeholder": "Search routines...",
+            "noResults": "No results found"
+        },
+        "stats": {
+            "total": "Total",
+            "completed": "Completed",
+            "inProgress": "In Progress",
+            "notStarted": "Not Started",
+            "count": "{{count}}"
+        },
+        "progress": {
+            "title": "Active Routines Progress",
+            "achieved": "{{percent}}% achieved"
+        },
+        "routine": {
+            "startDate": "Start Date: {{date}}",
+            "expectedEndDate": "Expected End Date: {{date}}"
+        }
+    }
+}
